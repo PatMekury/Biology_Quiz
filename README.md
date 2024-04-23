@@ -1,0 +1,2 @@
+# Biology_Quiz
+ The Cell Component Matching Quiz Game is an educational tool developed for the biology class at Houston Community College. This interactive game challenges students to match cellular components commonly found in plant cells, animal cells, or both. By dragging and dropping objects representing cell components into the appropriate zones, players reinforce their understanding of cell biology.
